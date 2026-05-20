@@ -24,5 +24,3 @@ The project displays:
 - Total deaths and cases
 - Highest affected countries
 
-## Author
-Your Name
